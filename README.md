@@ -1,1 +1,2 @@
 # car_distance_predict_signate
+应该检查一下是否有多重共线性的问题
